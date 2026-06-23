@@ -74,7 +74,7 @@ cd MovieRecX
 
 ## 🛠️ Tech Stack
 
-- **Language:** *(add your language here, e.g. Java / C++ / Python)*
+- **Language:** *Java*
 - **Core Concepts:** Hash Tables, Graphs, Heaps, Sorting Algorithms
 
 ---
