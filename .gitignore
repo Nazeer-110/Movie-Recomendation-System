@@ -1,0 +1,7 @@
+*.class
+out/
+.DS_Store
+*.log
+*.zip
+*.mp4
+*.pdf
